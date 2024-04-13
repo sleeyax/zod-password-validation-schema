@@ -11,7 +11,7 @@ const FIELD_VALIDATION = {
   },
   MSG: {
     MIN_LEN: `Password must have ${MIN_LENGTH} characters`,
-    SPECIAL_CHAR: "Password must contain atleast one special character",
+    SPECIAL_CHAR: "Password must contain at least one special character",
     LOWERCASE: "Password must contain at least one lowercase letter",
     UPPERCASE: "Password must contain at least one uppercase letter",
     NUMBER: "Password must contain at least one number",
